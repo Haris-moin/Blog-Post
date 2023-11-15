@@ -1,0 +1,22 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqplib": "^0.10.3",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.1"
+  }
+}

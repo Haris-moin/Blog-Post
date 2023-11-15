@@ -1,0 +1,42 @@
+{
+  "name": "nodejs-evaluation-hmoin-nisum-com",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GzEM5E6_) ## Assignment: Building a Blogging Platform API Scenario: You have been assigned to develop a backend API for a blogging platform. The API will handle CRUD operations for blog posts and user management. The platform should be secure, scalable, and follow best practices for performance and reliability.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Nisum-Pakistan/nodejs-evaluation-hmoin-nisum-com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nisum-Pakistan/nodejs-evaluation-hmoin-nisum-com/issues"
+  },
+  "homepage": "https://github.com/Nisum-Pakistan/nodejs-evaluation-hmoin-nisum-com#readme",
+  "dependencies": {
+    "@types/amqplib": "^0.10.3",
+    "@types/bcryptjs": "^2.4.5",
+    "@types/cors": "^2.8.15",
+    "@types/express": "^4.17.20",
+    "@types/joi": "^17.2.3",
+    "@types/jsonwebtoken": "^9.0.4",
+    "@types/nodemon": "^1.19.4",
+    "@types/winston": "^2.4.4",
+    "amqplib": "^0.10.3",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "winston": "^3.11.0"
+  }
+}
